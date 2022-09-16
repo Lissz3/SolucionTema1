@@ -1,5 +1,5 @@
-﻿namespace Ex6
-#define FACTORIAL
+﻿#define FACTORIAL
+namespace Ex6
 {
 	internal class Program
 	{

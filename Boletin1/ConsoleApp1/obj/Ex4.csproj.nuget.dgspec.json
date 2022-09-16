@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\Boletin1\\ConsoleApp1\\Ex4.csproj": {}
+    "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\EjerciciosTema1\\Boletin1\\ConsoleApp1\\Ex4.csproj": {}
   },
   "projects": {
-    "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\Boletin1\\ConsoleApp1\\Ex4.csproj": {
+    "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\EjerciciosTema1\\Boletin1\\ConsoleApp1\\Ex4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\Boletin1\\ConsoleApp1\\Ex4.csproj",
+        "projectUniqueName": "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\EjerciciosTema1\\Boletin1\\ConsoleApp1\\Ex4.csproj",
         "projectName": "Ex4",
-        "projectPath": "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\Boletin1\\ConsoleApp1\\Ex4.csproj",
+        "projectPath": "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\EjerciciosTema1\\Boletin1\\ConsoleApp1\\Ex4.csproj",
         "packagesPath": "C:\\Users\\bdisa\\.nuget\\packages\\",
-        "outputPath": "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\Boletin1\\ConsoleApp1\\obj\\",
+        "outputPath": "G:\\Mi unidad\\04.DESENV INTERF\\1EV\\Tema1\\EjerciciosTema1\\Boletin1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bdisa\\AppData\\Roaming\\NuGet\\NuGet.Config",
