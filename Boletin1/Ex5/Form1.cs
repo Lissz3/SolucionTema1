@@ -13,14 +13,10 @@ namespace Ex5
 		{
 			DialogResult option = MessageBox.Show("Cambiar título", "¿Desea actualizar el título del formulario?", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button4);
 
-			switch (option)
+			if (option == DialogResult.Yes)
 			{
-				case DialogResult.Yes:
-					this.Text = textBox1.Text;
-					break;
+				this.Text = textBox1.Text;
 
-				default:
-					break;
 			}
 
 		}
