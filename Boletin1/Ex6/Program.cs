@@ -16,12 +16,21 @@ namespace Ex6
 			return r;
 		}
 
-		public static void drawStars(int? quantity)
+		public static bool facts(int num, ref int r)
 		{
-			if (quantity == null)
+			if (num < 0 || num > 10)
 			{
-				quantity = 10;
+				return false;
 			}
+			else
+			{
+				factorial(num, ref r);
+				return true;
+			}
+		}
+
+		public static void drawStars(int quantity = 10)
+		{
 
 			for (int i = 0; i < quantity; i++)
 			{
@@ -38,11 +47,11 @@ namespace Ex6
 
 #if FACTORIAL
 			int r = 0;
-			factorial(3, ref r);
-			Console.WriteLine(r);
+			bool fact = facts(3, ref r);
+			Console.WriteLine(fact);
 #else
 			drawStars(5);
-			drawStars(null);
+			drawStars();
 #endif
 
 		}
